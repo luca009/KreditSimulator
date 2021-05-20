@@ -4,6 +4,9 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
+    <PackageId>Kredit Simulator</PackageId>
+    <Authors>Luca</Authors>
+    <Product>Kredit Simulator</Product>
   </PropertyGroup>
 
 </Project>

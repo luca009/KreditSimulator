@@ -150,13 +150,13 @@ namespace KreditSimulator
             this.lRate.AutoSize = true;
             this.lRate.Location = new System.Drawing.Point(6, 77);
             this.lRate.Name = "lRate";
-            this.lRate.Size = new System.Drawing.Size(70, 15);
+            this.lRate.Size = new System.Drawing.Size(95, 15);
             this.lRate.TabIndex = 4;
-            this.lRate.Text = "Zinssatz [%]";
+            this.lRate.Text = "Zinssatz p. a. [%]";
             // 
             // savedialog
             // 
-            this.savedialog.Filter = "txt-Datei|*.csv";
+            this.savedialog.Filter = "csv-Datei|*.csv";
             this.savedialog.Title = "Simulieren und Exportieren";
             // 
             // gboxCredit
